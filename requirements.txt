@@ -1,2 +1,4 @@
 crewai 
 crewai_tools
+youtube-transcript-api
+yt-dlp
